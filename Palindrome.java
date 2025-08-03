@@ -1,7 +1,7 @@
 class Palindrome {
     public boolen isPalindrome(int x){
         // x = 121 -> 121 -> Palindrome
-        if(n<){
+        if(n<0){
             return false;
         }
         int n = x ;
@@ -14,7 +14,7 @@ class Palindrome {
         }
         if(revNum == x ){
             return true;
-        }ele{
+        }else{
             return false;
         }
     }
